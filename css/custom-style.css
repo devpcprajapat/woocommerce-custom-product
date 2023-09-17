@@ -1,0 +1,30 @@
+.custom-product-image-preview{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.custom-product-image-preview img{
+    width: 100px;
+    height: auto;
+    border: 1px solid #646464;
+    margin: 5px;
+}
+
+
+.cart-custom-images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cart-custom-images a {
+    width: 40px;
+    height: auto;
+    border: 1px solid #cccccc;
+    margin: 5px;
+}
+
+
+td.product-thumbnail {
+    display: flex;
+    flex-direction: column-reverse;
+}
